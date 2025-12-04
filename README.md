@@ -15,6 +15,6 @@ For all of these, switch to the branch `lights-plugin` to see changes made me an
 [Firmware](https://github.com/DanielAdelodun/MAVLink-Lights-Firmware) for the LED Controller
 
 [Blender Python Script]() For the Multi Colour Spiral Example & [MAVSDK-Python Script]() for excecuting it
-+ Other Examples
+\+ Other Examples
 
 Images and Videos showing progress and demos
