@@ -6,6 +6,7 @@ Here you will find:
 [Thesis](CCIAdvancedProject.pdf)
 
 [Demo Video](https://youtu.be/Wr3UZIU_qhk)
+[Demo Video 2](https://youtu.be/aNKbazAUzbI)
 
 [MAVSDK-Python Script](rainbow_spiral_offboard_from_csv.py) for the Multi Colour Spiral Example & [Blender Python Script](generate_spiral.py) used to create the path
 
@@ -17,7 +18,7 @@ Here also are links to:
 
 ---
 
-Links to forks of the Open Source repositories that I made additions to for my project are below:
+Links to my forks of the Open Source repositories that I made additions to for my project are below:
 
 - [MAVLink](https://github.com/DanielAdelodun/mavlink/tree/lights-plugin)
 - [MAVSDK](https://github.com/DanielAdelodun/MAVSDK/tree/lights-plugin)
