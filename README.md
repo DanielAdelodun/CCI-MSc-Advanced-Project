@@ -7,7 +7,7 @@ Here you will find:
 
 [Demo Video](https://youtu.be/Wr3UZIU_qhk)
 
-[MAVSDK-Python Script]() for the Multi Colour Spiral Example & [Blender Python Script]() used to create the path
+[MAVSDK-Python Script](rainbow_spiral_offboard_from_csv.py) for the Multi Colour Spiral Example & [Blender Python Script](generate_spiral.py) used to create the path
 
 Here also are links to:
 
