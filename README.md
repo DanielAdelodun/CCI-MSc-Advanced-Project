@@ -3,9 +3,9 @@ Files for CCI Advanced Project
 
 Here you will find:
 
-[Thesis]()
+[Thesis](CCIAdvancedProject.pdf)
 
-[Demo Video]()
+[Demo Video](https://youtu.be/Wr3UZIU_qhk)
 
 [MAVSDK-Python Script]() for the Multi Colour Spiral Example & [Blender Python Script]() used to create the path
 
