@@ -7,11 +7,13 @@ Here you will find:
 
 [Demo Video]()
 
+[MAVSDK-Python Script]() for the Multi Colour Spiral Example & [Blender Python Script]() used to create the path
+
+Here also are links to:
+
 [KiCad Files](https://github.com/DanielAdelodun/MAVLink-Lights-Hardware) for the LED Controller hardware
 
 [Firmware](https://github.com/DanielAdelodun/MAVLink-Lights-Firmware) for the LED Controller
-
-[MAVSDK-Python Script]() for the Multi Colour Spiral Example & [Blender Python Script]() used to create the path
 
 ---
 
