@@ -5,7 +5,7 @@ Here you will find:
 
 [Thesis](CCIAdvancedProject.pdf)
 
-[Demo Video](https://youtu.be/Wr3UZIU_qhk)
+[Demo Video](https://youtu.be/Wr3UZIU_qhk) &
 [Demo Video 2](https://youtu.be/aNKbazAUzbI)
 
 [MAVSDK-Python Script](rainbow_spiral_offboard_from_csv.py) for the Multi Colour Spiral Example & [Blender Python Script](generate_spiral.py) used to create the path
