@@ -3,13 +3,17 @@ Files for CCI Advanced Project
 
 Here you will find:
 
+[Thesis]()
+
+[Demo Video]()
+
 [KiCad Files](https://github.com/DanielAdelodun/MAVLink-Lights-Hardware) for the LED Controller hardware
 
 [Firmware](https://github.com/DanielAdelodun/MAVLink-Lights-Firmware) for the LED Controller
 
-[Blender Python Script]() For the Multi Colour Spiral Example & [MAVSDK-Python Script]() for excecuting it
+[MAVSDK-Python Script]() for the Multi Colour Spiral Example & [Blender Python Script]() used to create the path
 
-Images and Videos showing progress and demos
+---
 
 Links to forks of the Open Source repositories that I made additions to for my project are below:
 
